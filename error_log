@@ -1,0 +1,74 @@
+[26-Jun-2025 15:24:14 UTC] PHP Warning:  move_uploaded_file(uploads/foto_1750951454_grua14.png): Failed to open stream: No such file or directory in /home/dgruasbd7/public_html/gruas/responder_servicio.php on line 16
+[26-Jun-2025 15:24:14 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpm4I36q&quot; to &quot;uploads/foto_1750951454_grua14.png&quot; in /home/dgruasbd7/public_html/gruas/responder_servicio.php on line 16
+[26-Jun-2025 17:08:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'telefono_conductor' in 'field list' in /home/dgruasbd7/public_html/gruas/crear_servicio.php:57
+Stack trace:
+#0 /home/dgruasbd7/public_html/gruas/crear_servicio.php(57): mysqli->prepare()
+#1 {main}
+  thrown in /home/dgruasbd7/public_html/gruas/crear_servicio.php on line 57
+[26-Jun-2025 17:15:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'telefono_conductor' in 'field list' in /home/dgruasbd7/public_html/gruas/crear_servicio.php:57
+Stack trace:
+#0 /home/dgruasbd7/public_html/gruas/crear_servicio.php(57): mysqli->prepare()
+#1 {main}
+  thrown in /home/dgruasbd7/public_html/gruas/crear_servicio.php on line 57
+[26-Jun-2025 17:26:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'telefono_conductor' in 'field list' in /home/dgruasbd7/public_html/gruas/crear_servicio.php:57
+Stack trace:
+#0 /home/dgruasbd7/public_html/gruas/crear_servicio.php(57): mysqli->prepare()
+#1 {main}
+  thrown in /home/dgruasbd7/public_html/gruas/crear_servicio.php on line 57
+[26-Jun-2025 21:58:52 UTC] PHP Warning:  move_uploaded_file(/home/dgruasbd7/public_html/gruas/fotos/evidencias/foto_1750975132_grua14.png): Failed to open stream: No such file or directory in /home/dgruasbd7/public_html/gruas/responder_servicio.php on line 18
+[26-Jun-2025 21:58:52 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpLKwho1&quot; to &quot;/home/dgruasbd7/public_html/gruas/fotos/evidencias/foto_1750975132_grua14.png&quot; in /home/dgruasbd7/public_html/gruas/responder_servicio.php on line 18
+[26-Jun-2025 22:06:59 UTC] PHP Warning:  move_uploaded_file(fotos/evidencias/foto_1750975619_grua10.png): Failed to open stream: No such file or directory in /home/dgruasbd7/public_html/gruas/responder_servicio.php on line 23
+[26-Jun-2025 22:06:59 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpr4nbgH&quot; to &quot;fotos/evidencias/foto_1750975619_grua10.png&quot; in /home/dgruasbd7/public_html/gruas/responder_servicio.php on line 23
+[27-Jun-2025 00:52:43 UTC] PHP Parse error:  Unclosed '{' on line 5 in /home/dgruasbd7/public_html/gruas/login.php on line 97
+[27-Jun-2025 00:53:14 UTC] PHP Parse error:  Unclosed '{' on line 5 in /home/dgruasbd7/public_html/gruas/login.php on line 97
+[27-Jun-2025 00:53:18 UTC] PHP Parse error:  Unclosed '{' on line 5 in /home/dgruasbd7/public_html/gruas/login.php on line 97
+[27-Jun-2025 00:54:37 UTC] PHP Parse error:  Unclosed '{' on line 5 in /home/dgruasbd7/public_html/gruas/login.php on line 97
+[27-Jun-2025 00:57:13 UTC] PHP Parse error:  Unclosed '{' on line 10 in /home/dgruasbd7/public_html/gruas/login.php on line 102
+[27-Jun-2025 00:58:42 UTC] PHP Parse error:  Unclosed '{' on line 10 in /home/dgruasbd7/public_html/gruas/login.php on line 102
+[27-Jun-2025 00:58:46 UTC] PHP Parse error:  Unclosed '{' on line 10 in /home/dgruasbd7/public_html/gruas/login.php on line 102
+[27-Jun-2025 00:58:50 UTC] PHP Parse error:  Unclosed '{' on line 10 in /home/dgruasbd7/public_html/gruas/login.php on line 102
+[27-Jun-2025 00:59:04 UTC] PHP Parse error:  Unclosed '{' on line 10 in /home/dgruasbd7/public_html/gruas/login.php on line 102
+[27-Jun-2025 00:59:07 UTC] PHP Parse error:  Unclosed '{' on line 10 in /home/dgruasbd7/public_html/gruas/login.php on line 102
+[27-Jun-2025 04:13:17 UTC] PHP Parse error:  Unmatched '}' in /home/dgruasbd7/public_html/gruas/login.php on line 62
+[27-Jun-2025 04:13:20 UTC] PHP Parse error:  Unmatched '}' in /home/dgruasbd7/public_html/gruas/login.php on line 62
+[27-Jun-2025 04:13:29 UTC] PHP Parse error:  Unmatched '}' in /home/dgruasbd7/public_html/gruas/login.php on line 62
+[27-Jun-2025 04:13:34 UTC] PHP Parse error:  Unmatched '}' in /home/dgruasbd7/public_html/gruas/login.php on line 62
+[27-Jun-2025 19:08:02 UTC] PHP Warning:  move_uploaded_file(fotos/soportes/soporte_acpm_1751051282_logo-sos.png): Failed to open stream: No such file or directory in /home/dgruasbd7/public_html/gruas/responder_servicio.php on line 41
+[27-Jun-2025 19:08:02 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpJUCUDI&quot; to &quot;fotos/soportes/soporte_acpm_1751051282_logo-sos.png&quot; in /home/dgruasbd7/public_html/gruas/responder_servicio.php on line 41
+[27-Jun-2025 19:08:02 UTC] PHP Warning:  move_uploaded_file(fotos/soportes/soporte_acpm_1751051282_logo-sos.png): Failed to open stream: No such file or directory in /home/dgruasbd7/public_html/gruas/responder_servicio.php on line 58
+[27-Jun-2025 19:08:02 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpJUCUDI&quot; to &quot;fotos/soportes/soporte_acpm_1751051282_logo-sos.png&quot; in /home/dgruasbd7/public_html/gruas/responder_servicio.php on line 58
+[28-Jun-2025 18:40:23 UTC] PHP Warning:  Undefined variable $conn in /home/dgruasbd7/public_html/gruas/crear_servicio.php on line 70
+[28-Jun-2025 18:40:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/dgruasbd7/public_html/gruas/crear_servicio.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/dgruasbd7/public_html/gruas/crear_servicio.php on line 70
+[29-Jun-2025 02:13:31 UTC] PHP Warning:  Undefined variable $conn in /home/dgruasbd7/public_html/gruas/crear_servicio.php on line 70
+[29-Jun-2025 02:13:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/dgruasbd7/public_html/gruas/crear_servicio.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/dgruasbd7/public_html/gruas/crear_servicio.php on line 70
+[29-Jun-2025 18:32:33 UTC] PHP Warning:  Undefined variable $conn in /home/dgruasbd7/public_html/gruas/crear_servicio.php on line 70
+[29-Jun-2025 18:32:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/dgruasbd7/public_html/gruas/crear_servicio.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/dgruasbd7/public_html/gruas/crear_servicio.php on line 70
+[29-Jun-2025 18:54:37 UTC] PHP Warning:  Undefined variable $conn in /home/dgruasbd7/public_html/gruas/crear_servicio.php on line 71
+[29-Jun-2025 18:54:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/dgruasbd7/public_html/gruas/crear_servicio.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dgruasbd7/public_html/gruas/crear_servicio.php on line 71
+[29-Jun-2025 18:55:05 UTC] PHP Warning:  Undefined variable $conn in /home/dgruasbd7/public_html/gruas/crear_servicio.php on line 71
+[29-Jun-2025 18:55:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/dgruasbd7/public_html/gruas/crear_servicio.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dgruasbd7/public_html/gruas/crear_servicio.php on line 71
+[29-Jun-2025 20:58:04 UTC] PHP Warning:  Undefined variable $conn in /home/dgruasbd7/public_html/gruas/crear_servicio.php on line 71
+[29-Jun-2025 20:58:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/dgruasbd7/public_html/gruas/crear_servicio.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dgruasbd7/public_html/gruas/crear_servicio.php on line 71
+[29-Jun-2025 21:01:17 UTC] PHP Warning:  Undefined variable $conn in /home/dgruasbd7/public_html/gruas/crear_servicio.php on line 72
+[29-Jun-2025 21:01:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/dgruasbd7/public_html/gruas/crear_servicio.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/dgruasbd7/public_html/gruas/crear_servicio.php on line 72
