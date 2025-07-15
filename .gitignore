@@ -1,0 +1,32 @@
+# 🔒 Archivos de configuración privados
+config.php
+conexion.php
+.env
+
+# 🗃️ Bases de datos y respaldos
+*.sql
+*.sqlite
+*.bak
+
+# 📦 Dependencias y librerías externas
+/vendor/
+/node_modules/
+/PHPMailer-master/
+
+# ⚙️ Configuración de editores
+.vscode/
+.idea/
+
+# 🧹 Archivos temporales
+*.log
+*.tmp
+*.cache
+*.zip
+*.rar
+.DS_Store
+Thumbs.db
+
+# 💻 SO específicos y basuras del sistema
+desktop.ini
+ehthumbs.db
+*.swp
